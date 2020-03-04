@@ -61,3 +61,51 @@ VOLCANX020,NUMBER,NAME,LOCATION,STATUS,ELEV,TYPE,TIMEFRAME,LAT,LON
 584.000000000000000,1203-20-,Amboy,US-California,Holocene,288.000000000000000,Cinder cone,U,34.5499992,-115.7809982
 586.000000000000000,1210-02-,Zuni-Bandera,US-New Mexico,Anthropology,2550.000000000000000,Volcanic field,D7,34.7999992,-108.0009995
 588.000000000000000,1210-01-,Carrizozo,US-New Mexico,Holocene,1731.000000000000000,Cinder cone,U,33.7801018,-105.9309998
+509,1201-04,Askja,Iceland,n/a,1516,volcano,n/a,65.03Â°N,16.75Â°W
+509,12345,BÃ¡rÃ°arbunga,Iceland,n/a,2005,volcano,n/a,64.64Â°N ,17.56Â°W
+509,12345,BrennisteinsfjÃ¶ll,Iceland,n/a,626,volcano,n/a,63.92Â°N,21.83Â°W
+509,12345,Eldfell,Iceland,n/a,279,volcano,n/a,63.43Â°N,20.25Â°W
+509,12345,EldgjÃ¡,Iceland,n/a,800,volcano,n/a,64.24Â°N ,18.37Â°W
+509,12345,EsjufjÃ¶ll,Iceland,n/a,1760,volcano,n/a,64.27Â°N ,16.65Â°W
+509,12345,EyjafjallajÃ¶kull,Iceland,n/a,1666,volcano,n/a,63.63Â°N ,19.62Â°W
+509,1201-04,FremrinÃ¡mur,Iceland,n/a,939,volcano,n/a,65.43Â°N ,16.65Â°W
+509,12345,Grensdalur,Iceland,n/a,497,volcano,n/a,64.02Â°N ,21.17Â°W
+509,12345,GrÃ­msnes,Iceland,n/a,214,volcano,n/a,64.03Â°N ,20.87Â°W
+509,12345,GrÃ­msvÃ¶tn,Iceland,n/a,1725,volcano,n/a,64.42Â°N ,17.33Â°W
+509,12345,Hekla,Iceland,n/a,1491,volcano,n/a,63.98Â°N ,19.70Â°W
+509,12345,Helgafell,Iceland,n/a,227,volcano,n/a,63.43Â°N ,20.26Â°W
+509,12345,Hengill,Iceland,n/a,803,volcano,n/a,64.18Â°N ,21.33Â°W
+509,1201-04,HerÃ°ubreiÃ°,Iceland,n/a,1682,volcano,n/a,65.18Â°N ,16.34Â°W
+509,12345,HofsjÃ¶kull,Iceland,n/a,1782,volcano,n/a,64.85Â°N ,19.53Â°W
+509,12345,Holuhraun,Iceland,n/a,778,volcano,n/a,64.84Â°N,16.83Â°W
+509,12345,HrÃ³mundartindur,Iceland,n/a,540,volcano,n/a,64.07Â°N ,21.20Â°W
+509,12345,Hveravellir,Iceland,n/a,1360,volcano,n/a,64.75Â°N ,19.98Â°W
+509,12345,Hverfjall,Iceland,n/a,420,volcano,n/a,65.36Â°N ,16.53Â°W
+509,12345,JÃ³lnir,Iceland,n/a,0,volcano,n/a,63.30Â°N ,20.63Â°W
+509,1201-04,Katla,Iceland,n/a,1512,volcano,n/a,63.63Â°N ,19.05Â°W
+509,12345,KerlingarfjÃ¶ll,Iceland,n/a,1488,volcano,n/a,64.63Â°N ,19.32Â°W
+509,12345,Kolbeinsey Ridge,Iceland,n/a,5,volcano,n/a,66.67Â°N ,18.50Â°W
+509,12345,KollÃ³ttadyngja,Iceland,n/a,1177,volcano,n/a,65.22Â°N ,16.55Â°W
+509,12345,Krafla,Iceland,n/a,650,volcano,n/a,65.73Â°N ,16.78Â°W
+509,12345,Krakatindur,Iceland,n/a,300,volcano,n/a,63.55Â°N ,19.30Â°W
+509,12345,KrÃ½suvÃ­k,Iceland,n/a,379,volcano,n/a,63.93Â°N ,22.10Â°W
+509,1201-04,KverkfjÃ¶ll,Iceland,n/a,1920,volcano,n/a,64.65Â°N ,16.72Â°W
+509,12345,Laki,Iceland,n/a,1725,volcano,n/a,64.06Â°N ,18.22Â°W
+509,12345,LjÃ³sufjÃ¶ll,Iceland,n/a,988,volcano,n/a,64.87Â°N ,22.23Â°W
+509,12345,Loki-FÃ¶grufjÃ¶ll,Iceland,n/a,1570,volcano,n/a,64.48Â°N ,17.80Â°W
+509,12345,LÃ½suhÃ³ll,Iceland,n/a,540,volcano,n/a,64.87Â°N ,23.25Â°W
+509,12345,Ã–rÃ¦fajÃ¶kull,Iceland,n/a,2119,volcano,n/a,64.00Â°N ,16.65Â°W
+509,12345,PrestahnÃºkur,Iceland,n/a,1386,volcano,n/a,64.60Â°N ,20.60Â°W
+509,1201-04,Reykjanes,Iceland,n/a,230,volcano,n/a,63.88Â°N ,22.50Â°W
+509,12345,Reykjaneshryggur,Iceland,n/a,-80,volcano,n/a,63.67Â°N ,23.33Â°W
+509,12345,SnÃ¦fellsjÃ¶kull,Iceland,n/a,1448,volcano,n/a,64.80Â°N,23.78Â°W
+509,12345,Surtsey,Iceland,n/a,174,volcano,n/a,63.30Â°N ,20.62Â°W
+509,12345,Theistareykjarbunga,Iceland,n/a,564,volcano,n/a,65.88Â°N ,16.83Â°W
+509,12345,Thordarhyrna,Iceland,n/a,0,volcano,n/a,64.12Â°N,17.0Â°W
+509,12345,Thrihnukagigur,Iceland,n/a,550,volcano,n/a,63.99Â°N ,21.7Â°W
+509,1201-04,TindfjallajÃ¶kull,Iceland,n/a,1463,volcano,n/a,63.78Â°N ,19.57Â°W
+509,12345,TorfajÃ¶kull,Iceland,n/a,1259,volcano,n/a,63.92Â°N ,19.17Â°W
+509,12345,TrÃ¶lladyngja,Iceland,n/a,1468,volcano,n/a,64.89Â°N ,17.25Â°W
+509,12345,TungnafellsjÃ¶kull,Iceland,n/a,1535,volcano,n/a,64.73Â°N ,17.92Â°W
+509,12345,VatnafjÃ¶ll,Iceland,n/a,1235,volcano,n/a,63.92Â°N ,19.67Â°W
+509,12345,ÃžÃ³rÃ³lfsfell,Iceland,n/a,574,volcano,n/a,63.72Â°N ,19.67Â°W
